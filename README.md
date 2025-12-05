@@ -1,6 +1,6 @@
-# FreeCodeCamp Machine Learning Projects
+# freeCodeCamp Machine Learning Projects
 
-This repository serves as a hub for all my **FreeCodeCamp: Machine Learning with Python** assignments.  
+This repository serves as a hub for all my **freeCodeCamp: Machine Learning with Python** assignments.  
 Each project is maintained in its own repository and is linked below with a brief description of what it does.
 
 ---
